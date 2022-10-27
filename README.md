@@ -1,2 +1,2 @@
 # fisrt-challenge-a
-a  guide for fisrt-challenge-a
+this is a guide for first-challenge-a
